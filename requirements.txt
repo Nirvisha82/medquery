@@ -1,6 +1,8 @@
 streamlit
 biopython
 langchain
+langchain-community
+langchain-huggingface
 faiss-cpu
 gdown
 sentence-transformers
