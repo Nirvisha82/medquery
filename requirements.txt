@@ -1,0 +1,6 @@
+streamlit
+biopython
+langchain
+faiss-cpu
+sentence-transformers
+google-generativeai
